@@ -1,0 +1,45 @@
+body{
+/*	background-color: #e3e3e3;*/
+margin-top:40px;
+	color:#000;
+	font-family: "HelveticaNeueW01-45Light", "Helvetica", Arial, sans-serif;
+	font-size: 18px;
+	line-height: 24px;
+}
+
+h1, h2, h3{
+	color:#000;
+	font-family: "HelveticaNeueW01-75Bold", "Helvetica", Arial, sans-serif;
+	border-bottom:1px solid #000;
+}
+
+h1{
+	font-size: 36px;
+	line-height: 36px;
+	padding-bottom: 10px;
+}
+
+h2{
+	font-size: 30px;
+	line-height: 30px;
+}
+
+a{
+	color:#929292;
+}
+
+a:hover{
+	text-decoration: none;
+	color:#000;
+
+}
+
+a:visited{
+}
+
+li:hover{
+/*	*/
+}
+.lead{
+	margin:0;
+}
